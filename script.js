@@ -11,3 +11,10 @@ $(document).ready(function(){
         autoPlay:false
     });
 });
+
+
+
+// aos js
+AOS.init({
+    duration: 1200,
+  })

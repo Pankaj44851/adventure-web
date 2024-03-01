@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+section{
+    overflow: hidden;
+}
+
 .top-left {
     padding-top: 5px;
 }
